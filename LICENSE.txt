@@ -1,0 +1,15 @@
+Copyright (c) 2025 [بازی سوزاندن حشرات]. All rights reserved.
+
+This extension and all associated code, assets, and resources are the exclusive property of the copyright holder.
+
+Without express written permission from the copyright holder, no individual or organization may:
+
+1. Copy, distribute, or reproduce this extension in whole or in part.
+2. Use this extension or any of its code for personal, commercial, or educational projects.
+3. Modify, adapt, translate, or create derivative works based on this extension.
+
+This extension is provided solely for personal use within the Chrome browser. Any unauthorized use, redistribution, or modification will be considered a violation of copyright law and may result in legal action.
+
+For licensing inquiries or to obtain permission for use, contact:
+Omidw20ipx@gmail.com
+https://t.me/Anony_muos

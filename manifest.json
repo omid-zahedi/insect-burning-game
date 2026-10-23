@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "بازی سوزاندن حشرات",
+  "description": "بازی جذاب سوزاندن حشرات در سایدبار کروم",
+  "version": "1.0",
+  "icons": {
+    "16": "icons/icon.png",
+    "48": "icons/icon.png",
+    "128": "icons/icon.png"
+  },
+  "action": {
+    "default_title": "باز کردن بازی سوزاندن حشرات",
+    "default_icon": "icons/icon.png"
+  },
+  "permissions": ["sidePanel"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "*.js",
+        "*.css",
+        "*.webp",
+        "*.jpg",
+        "*.png",
+        "icons/*",
+        "backgrounds/*",
+        "insects",
+        "magnifiers",
+        "main-img",
+        "tear"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
